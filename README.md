@@ -3,6 +3,12 @@ angular-soap
 
 An Angular port of a <a href="http://javascriptsoapclient.codeplex.com/">JavaScript SOAP Client</a> into a factory that has a similar syntax to $http.
 
+# Install
+Download soapclient.js and angular.soap.js or use Bower to install both:
+```
+bower install angular-soap --save
+```
+
 # Usage
 Before using the factory, you must import the two scripts and its module:
 
